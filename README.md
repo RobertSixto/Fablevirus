@@ -1,5 +1,5 @@
 # Fablevirus
-(For educational purposes only)A windows xp virus written in C with a reference to the original Fable video game.
+(For educational purposes only)A Windows XP virus written in C with a reference to the original Fable video game.
 
 
 WARNING!!!! COMPILING THIS CODE ON A MACHINE NOT RUNNINING XP CAN STILL CAUSE DAMAGE AND OVERWRITE EXECUTABLE FILES.
