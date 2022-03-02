@@ -9,7 +9,7 @@ On Windows XP this virus overwrites the binaries of other executables located in
 
 
 The virus searches out and finds the start up folder and copies itself there. On computer reboot, virus creates a memory leak that slowly uses all RAM, 
-eventually blue screening the computer. As it does this, it prints a cheeky message to a text file on the desktop. The message is a reference to the video game "Fable" and doubles as a log of how much ram has been consumed.
+eventually blue screening the computer. As it does this, it prints a cheeky message to a text file on the desktop. The message is a reference to the video game "Fable" and doubles as a log of how much RAM has been consumed.
 
 
 
